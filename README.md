@@ -2,11 +2,8 @@
 
 ### CodewithHarry Python My Practice Questions Solution
 
-This repository contains my solutions to practice questions from the CodeWithHarry Python course. It covers essential Python concepts, including loops, functions, recursion, data structures, OOP, and more.🚀
-
--
-
-The practice questions in the Apna College Python YouTube playlist are tailored to complement the video tutorials and enhance your learning experience. These questions are directly aligned with the concepts taught in the playlist and serve as a hands-on approach to reinforce the topics covered.
+- This repository contains my solutions to practice questions from the CodeWithHarry Python course. It covers essential Python concepts, including loops, functions, recursion, data structures, OOP, and more.🚀
+- The practice questions in the Apna College Python YouTube playlist are tailored to complement the video tutorials and enhance your learning experience. These questions are directly aligned with the concepts taught in the playlist and serve as a hands-on approach to reinforce the topics covered.
 
 --- 
 
