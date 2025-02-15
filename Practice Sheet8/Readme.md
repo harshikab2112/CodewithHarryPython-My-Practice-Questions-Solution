@@ -1,5 +1,5 @@
-# CodeWithHarry Python Course**  
-## Practice Sheet 8: Functions and Recursions**  
+# CodeWithHarry Python Course
+## Practice Sheet 8: Functions and Recursions
 
 This repository contains solutions and practice questions from Practice Sheet 8 of the CodeWithHarry Python Course, focusing on Functions and Recursions in Python.  
 
