@@ -1,5 +1,5 @@
 # CodeWithHarry Python Course
-## Practice Sheet 10: Object-Oriented Programming (OOP)
+## Practice Sheet 10 & 11: Object-Oriented Programming (OOP)
 
 This repository contains solutions and practice questions from Practice Sheet 10 of the CodeWithHarry Python Course, focusing on Object-Oriented Programming (OOP) in Python.  
 
