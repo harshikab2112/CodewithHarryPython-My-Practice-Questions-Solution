@@ -1,5 +1,5 @@
-# CodeWithHarry Python Course**  
-## Practice Sheet 9: File I/O**  
+# CodeWithHarry Python Course
+## Practice Sheet 9: File I/O
 
 This repository contains solutions and practice questions from Practice Sheet 9 of the CodeWithHarry Python Course, focusing on File Input and Output (I/O) in Python.  
 
