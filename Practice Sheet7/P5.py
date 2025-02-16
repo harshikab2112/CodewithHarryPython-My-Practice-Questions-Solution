@@ -1,9 +1,10 @@
-# Write a program which finds out whether a given name is present in a list or not.
+# Write a program to find the sum of first n natural numbers using while loop.
 
-myList = ["Ria", "Mia", "Tia", "Pia", "Sia", "Nia", "Lia"]
-a = input("Enter a name: ")
+num = int(input("Enter a positive number: "))
+sum = 0
+i = 1
+while i <= num:
+    sum += i
+    i += 1
 
-if a.capitalize() in myList:
-    print("Present")
-else:
-    print("Not Present")
+print(f"Sum of first {num} natural numbers is {sum}")

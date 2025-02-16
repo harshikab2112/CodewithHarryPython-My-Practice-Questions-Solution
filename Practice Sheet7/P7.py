@@ -1,8 +1,9 @@
-# Write a program to find out whether a given post is talking about "Harry" or not.
+# Write a program to print the following star pattern.
+# *
+# ***
+# ***** for n=3
 
-post = input("Enter the post: ")
+n = 3
 
-if "harry" in post.lower():
-    print("Talking about Harry")
-else:
-    print("Not talking about Harry")
+for i in range(0, n):
+    print("*" * (2 * i + 1))

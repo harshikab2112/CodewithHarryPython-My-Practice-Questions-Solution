@@ -1,14 +1,8 @@
-# Write a program to find out whether a student has passed or failed if it requires a total of 40% and at least 33% in each subject to pass.
-# Assume 3 subjects and take marks as an input from the user.
+# Write a program to greet all the person names stored in a list 'l' and which starts with S.
+# l=["Harry", "Soham", "Sachin", "Rahul"]
 
-sub1 = float(input("Enter the 1st subject marks: "))
-sub2 = float(input("Enter the 2nd subject marks: "))
-sub3 = float(input("Enter the 3rd subject marks: "))
+l = ["Harry", "Soham", "Sachin", "Rahul"]
 
-percent = (sub1 + sub2 + sub3) / 3
-
-if percent >= 40:
-    if sub1 >= 33 and sub2 >= 33 and sub3 >= 33:
-        print("Pass")
-else:
-    print("Fail")
+for name in l:
+    if name.startswith("S"):
+        print(f"Good Morning! {name}\nHope you are good.\n")
