@@ -3,12 +3,23 @@
 # * *
 # *** for n=3
 
-n = 10
+n = 5
 
-for i in range(n):  # row
-    for j in range(n):  # column
-        if i == 0 or i == n - 1 or j == 0 or j == n - 1:
+for i in range(1, n + 1):  # row
+    for j in range(1, n + 1):  # column
+        if i == 1 or i == n or j == 1 or j == n:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+
+
+"""n=5
+for i in range(1,n+1):
+    if i==1 or i==n:
+        print("*"*n,end="")
+    else:
+        print("*", end="")
+        print(" "*(n-2), end="")
+        print("*", end="")
+    print()"""
