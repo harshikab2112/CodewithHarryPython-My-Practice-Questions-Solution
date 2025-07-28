@@ -21,4 +21,4 @@ if random_score > score:
         f.write(str(random_score))
     print(f"New High Score: {random_score}")
 else:
-    print(f"Your Score: {random_score} (Hight score: {score})")
+    print(f"Your Score: {random_score} (High score: {score})")

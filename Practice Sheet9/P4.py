@@ -2,7 +2,7 @@
 # You need to write a program which replace this word with ##### by updating the same file.
 
 with open("P4.txt", "rt") as f:
-    data = f.read()
+    data = f.read().lower()
 
 data = data.replace("donkey", "#####")
 
