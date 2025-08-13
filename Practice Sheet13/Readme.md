@@ -6,9 +6,9 @@ This repository contains solutions and practice questions from Practice Sheet 13
 ---
 
 ### **Concepts Covered**  
-- **Multithreading and Multiprocessing**: Understanding parallel execution.  
-- **Asynchronous Programming**: Using `async` and `await` for non-blocking code.  
-- **Memory Management**: Exploring garbage collection and memory optimization.  
-- **Functional Programming**: Leveraging `map()`, `filter()`, and `reduce()`.  
-- **Design Patterns**: Implementing common design patterns in Python.  
-- **C Extensions**: Enhancing performance using C-based extensions.  
+- **Virtual Environment**: Isolated Python setup using `virtualenv`.  
+- **Pip Freeze Command**: Export and recreate environments with `requirements.txt`.  
+- **Lambda Functions**: Small anonymous functions using `lambda`.  
+- **Join Method**: Combine iterable elements into a string.  
+- **Format Method**: Insert variables into strings using `.format()`.  
+- **Map, Filter & Reduce**: Apply functions, filter data, and perform cumulative operations.  
